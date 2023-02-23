@@ -39,6 +39,7 @@ class MainActivity : AppCompatActivity() {
 <p align = "center">
 <img src = "images/1-2.png">
 </p>
+
 ***
 
 # <p align = "center">Решение задачи</p>
@@ -78,6 +79,7 @@ class MainActivity : AppCompatActivity() {
 <img src = "images/1-1.png">
 </p>
 
-# <p align = "center">Вывод</p>
+***
 
+# <p align = "center">Вывод</p>
 Выполнил данную задачу, потренировался в овладении языка `Kotlin`.
