@@ -12,7 +12,6 @@
 # <p align = "center">Задача</p>
 
 Изменить программный код так, чтобы уведомления появлялись сверху, а не снизу.
-
 ```kotlin
 private lateinit var true_button:Button
 private lateinit var false_button:Button
@@ -36,6 +35,10 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 
+Результат работы кода до изменений:
+<p align = "center">
+<img src = "images/1-2.png">
+</p>
 ***
 
 # <p align = "center">Решение задачи</p>
@@ -69,6 +72,11 @@ class MainActivity : AppCompatActivity() {
     }
 }
 ```
+
+Результат работы кода gjckt изменений:
+<p align = "center">
+<img src = "images/1-1.png">
+</p>
 
 # <p align = "center">Вывод</p>
 
