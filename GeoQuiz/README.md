@@ -74,7 +74,7 @@ class MainActivity : AppCompatActivity() {
 }
 ```
 
-Результат работы кода gjckt изменений:
+Результат работы кода после изменений:
 <p align = "center">
 <img src = "images/1-1.png">
 </p>
